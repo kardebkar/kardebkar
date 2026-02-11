@@ -24,10 +24,12 @@ Docs: https://docs.github.com/en/account-and-profile/how-tos/profile-customizati
 
 ---
 
-### Research focus (PhD-ready)
+### Research focus
 - **Robust sensing ML** under domain shift + noise: hyperspectral imaging (precision agriculture, post-harvest) and wearable IMU time series (HAR).
+- **Human-Computer Interaction (HCI)** for data-driven tools: designing research and decision-support interfaces that make sensing/ML systems interpretable, actionable, and usable in real workflows.
 - **Reliable AI systems**: experiment workflows, evaluation harnesses, deployment simulation, and debugging via traces/metrics/logs.
 - **Methods**: spatiotemporal deep learning, representation learning (VAE/GAN), reinforcement learning (DQN variants), streaming inference.
+
 
 ---
 
