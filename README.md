@@ -93,17 +93,22 @@ Docs: https://docs.github.com/en/account-and-profile/how-tos/profile-customizati
 </details>
 
 <details>
-  <summary><b>GitHub stats (optional)</b></summary>
+  <summary><b>GitHub stats</b></summary>
 
-<a href="https://github.com/kardebkar">
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=kardebkar&show_icons=true&hide_title=true" />
-</a>
+  <p>
+    <a href="https://github.com/kardebkar">
+      <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=kardebkar&show_icons=true&hide_title=true&rank_icon=github" />
+    </a>
+  </p>
 
-<a href="https://github.com/kardebkar">
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kardebkar&layout=compact" />
-</a>
+  <p>
+    <a href="https://github.com/kardebkar">
+      <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kardebkar&layout=compact&langs_count=10" />
+    </a>
+  </p>
 
 </details>
+
 
 ---
 
